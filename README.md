@@ -4,5 +4,5 @@
 Today I complete the Basic of Neural Networks Concept like:
                   Preceptron
                   FeedForward
-from Udacity(Deep Learning with PyTorch) and also some concept from Coursera(Deep Learning by Andrew Ng).
+from Udacity(Deep Learning with PyTorch) and also some concept from Coursera(Deep Learning by Andrew Ng){find this course on YouTube too} https://www.youtube.com/watch?v=CS4cs9xVecg&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0
                   

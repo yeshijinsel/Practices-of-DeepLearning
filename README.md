@@ -16,3 +16,9 @@ Today I just complete some basic problems of preceptron and forward propagation.
    gradient descent and loss(Mean Square Error, Cross Entropy)<br />
 ## Resources:
 1)3Blue1Brown: https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi 
+
+## Day 3: 26 November 2018
+Today I just complete some topics like <br />
+             Non-Linear Data<br />
+             Deep Neural Networks <br />
+             

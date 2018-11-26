@@ -8,3 +8,7 @@ Today I complete the Basic of Neural Networks Concept like:<br />
 1)Udacity(Deep Learning with PyTorch) https://in.udacity.com/course/deep-learning-pytorch--ud188 <br />
 2)Coursera(Deep Learning by Andrew Ng) https://www.youtube.com/watch?v=CS4cs9xVecg&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0
                   
+## Day 2: 25 November 2018
+Today I just complete some basic problems of preceptron and forward propagatio.<br />
+   Backpropogation<br />
+   gradient descent and loss<br />

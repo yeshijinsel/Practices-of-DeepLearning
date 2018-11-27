@@ -22,3 +22,6 @@ Today I just complete some topics like: <br />
              Non-Linear Data<br />
              Deep Neural Networks <br />
              
+## Day 4: 27 November 2018
+Today I start to Learn PyTorch Framework for Deep Learning<br />
+              Introduction of PyTorch   (https://pytorch.org/)             

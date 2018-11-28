@@ -24,10 +24,10 @@ Today I just complete some topics like: <br />
              
 ## Day 4: 27 November 2018
 Today I start to Learn PyTorch Framework for Deep Learning<br />
-              Introduction of PyTorch   (https://pytorch.org/)   
-              Tensors in PyTorch 
-              Neural Networks in PyTorch
-              Training Neural Networks
+              Introduction of PyTorch   (https://pytorch.org/) <br />  
+              Tensors in PyTorch <br />
+              Neural Networks in PyTorch <br />
+              Training Neural Networks <br />
 
 ## Day 5: 28 November 2018
 Continue of PyTorch Concept and Learning: <br />

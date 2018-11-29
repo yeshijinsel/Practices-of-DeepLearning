@@ -1,7 +1,11 @@
 # 100_Days_of_DeepLearning
+# ( PyTorch Scholarship Challenge for Deep Learning NanoDegree)<br />
+I am doing this PyTorch Scholarship Challenge by Facebook in Udacity and it's a 2 month Challenge and complete the whole lesson with assignment and also Final Project.<br />
+So Lets DO IT.
 
 ## Day 1: 24 November 2018
 Today I complete the Basic of Neural Networks Concept like:<br />
+                  Lesson 2 of Challenge <br />
                   Preceptron<br />
                   Activation Function<br />
                   FeedForward<br />
@@ -24,6 +28,7 @@ Today I just complete some topics like: <br />
              
 ## Day 4: 27 November 2018
 Today I start to Learn PyTorch Framework for Deep Learning<br />
+              Lesson 4:<br />
               Introduction of PyTorch   (https://pytorch.org/) <br />  
               Tensors in PyTorch <br />
               Neural Networks in PyTorch <br />
@@ -32,3 +37,8 @@ Today I start to Learn PyTorch Framework for Deep Learning<br />
 ## Day 5: 28 November 2018
 Continue of PyTorch Concept and Learning: <br />
               Fashion-MNIST
+             
+## Day 6: 29 November 2018
+Continue with the PyTorch Challenge lesson 4:<br />
+              Inference and Validation<br />
+              Saving and Loading Models <br />

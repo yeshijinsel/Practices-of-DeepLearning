@@ -42,3 +42,8 @@ Continue of PyTorch Concept and Learning: <br />
 Continue with the PyTorch Challenge lesson 4:<br />
               Inference and Validation<br />
               Saving and Loading Models <br />
+              
+ ## Day 7: 30 November 2018
+ Completing the Lesson 4 of Challenge<br />
+              Loading Data<br />
+              Transfer Learning<br />

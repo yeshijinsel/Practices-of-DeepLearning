@@ -47,3 +47,9 @@ Continue with the PyTorch Challenge lesson 4:<br />
  Completing the Lesson 4 of Challenge<br />
               Loading Data<br />
               Transfer Learning<br />
+    
+ ## Day 8: 1 December 2018
+ Starting Lesson 5 : (CNN) Convolution Neural Networks
+               Intro to CNN<br />
+ There are lots of CNN Resources but if you wanna follow some cool stuff then try CS231 course from Standford, Very Nice and cool to learn.
+ http://cs231n.stanford.edu/

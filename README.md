@@ -53,3 +53,7 @@ Continue with the PyTorch Challenge lesson 4:<br />
                Intro to CNN<br />
  There are lots of CNN Resources but if you wanna follow some cool stuff then try CS231 course from Standford, Very Nice and cool to learn.
  http://cs231n.stanford.edu/
+ 
+ ## Day 9: 2 December 2018
+ Continue of CNN <br />
+ Padding,Stride and filters<br />

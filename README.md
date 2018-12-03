@@ -56,4 +56,5 @@ Continue with the PyTorch Challenge lesson 4:<br />
  
  ## Day 9: 2 December 2018
  Continue of CNN <br />
+ Features<br />
  Padding,Stride and filters<br />

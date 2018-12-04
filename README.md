@@ -55,6 +55,12 @@ Continue with the PyTorch Challenge lesson 4:<br />
  http://cs231n.stanford.edu/
  
  ## Day 9: 2 December 2018
- Continue of CNN <br />
+ Continue of CNN ( Lesson 5) <br />
  Features<br />
  Padding,Stride and filters<br />
+ 
+ ## Day 10: 4 December 2018
+ Continue CNN with Andrew Ng (DeepLearning.ai)[Great concept and real math behind for CNN]< br />
+ Revision of Numpy (Python Library)
+
+ 

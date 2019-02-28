@@ -1,7 +1,8 @@
 # DeepLearning Practices
 # ( PyTorch Scholarship Challenge for Deep Learning NanoDegree)<br />
 I am doing this PyTorch Scholarship Challenge by Facebook in Udacity and it's a 2 month Challenge and complete the whole lesson with assignment and also Final Project.<br />
-So Lets DO IT.
+Good News to Me...<br />
+I just got selected in Pytorch Scholarship for Deep learning Nanodegree and Now lets Get start for Nanodegree and learn more.
 
 ## Day 1: 24 November 2018
 Today I complete the Basic of Neural Networks Concept like:<br />

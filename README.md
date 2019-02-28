@@ -1,4 +1,4 @@
-# 100_Days_of_DeepLearning
+# DeepLearning Practices
 # ( PyTorch Scholarship Challenge for Deep Learning NanoDegree)<br />
 I am doing this PyTorch Scholarship Challenge by Facebook in Udacity and it's a 2 month Challenge and complete the whole lesson with assignment and also Final Project.<br />
 So Lets DO IT.

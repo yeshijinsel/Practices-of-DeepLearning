@@ -64,8 +64,9 @@ Continue with the PyTorch Challenge lesson 4:<br />
  Revision of Numpy (Python Library)
  
  ## Day 11: 27 Febraury 2019
- Finished my CNN and also transfer Learning. Make some project on style transfer</br />
- Different Architecture of CNN like ResNet,AlexNet, VGG and more
+ Finished my CNN and also transfer Learning. Make some project on style transfer</br >
+ Different Architecture of CNN like ResNet,AlexNet, VGG and more<br />
+ https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html
  
  ## Day 12: 28 Febraury 2019
  New Topic Autoencoder and its really cool to learn.<br />

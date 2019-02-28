@@ -60,7 +60,17 @@ Continue with the PyTorch Challenge lesson 4:<br />
  Padding,Stride and filters<br />
  
  ## Day 10: 4 December 2018
- Continue CNN with Andrew Ng (DeepLearning.ai)[Great concept and real math behind for CNN]< br />
+ Continue CNN with Andrew Ng (DeepLearning.ai)[Great concept and real math behind for CNN]<br />
  Revision of Numpy (Python Library)
+ 
+ ## Day 11: 27 Febraury 2019
+ Finished my CNN and also transfer Learning. Make some project on style transfer</br />
+ Different Architecture of CNN like ResNet,AlexNet, VGG and more
+ 
+ ## Day 12: 28 Febraury 2019
+ New Topic Autoencoder and its really cool to learn.<br />
+               What is Autoencoder <br />
+               Encoder and Decoder <br />
+               What is Convolutional Autoencoder and Transpose Convolutional <br />
 
  

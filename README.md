@@ -66,6 +66,8 @@ Continue with the PyTorch Challenge lesson 4:<br />
  Continue CNN with Andrew Ng (DeepLearning.ai)[Great concept and real math behind for CNN]<br />
  Revision of Numpy (Python Library)
  
+ ## Completing Final Project for Pytorch Scholarship Challenge (Flower Classification)
+ 
  ## Day 11: 27 Febraury 2019
  Finished my CNN and also transfer Learning. Make some project on style transfer</br >
  Different Architecture of CNN like ResNet,AlexNet, VGG and more<br />

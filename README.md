@@ -29,6 +29,8 @@ Today I just complete some topics like: <br />
              
 ## Day 4: 27 November 2018
 Today I start to Learn PyTorch Framework for Deep Learning<br />
+
+
               Lesson 4:<br />
               Introduction of PyTorch   (https://pytorch.org/) <br />  
               Tensors in PyTorch <br />
@@ -75,5 +77,11 @@ Continue with the PyTorch Challenge lesson 4:<br />
                What is Autoencoder <br />
                Encoder and Decoder <br />
                What is Convolutional Autoencoder and Transpose Convolutional <br />
+ ## Day 13: 1 March, 2019
+ Implementation of Autoencoder in MNIST datasets<br/>
+ Starting RNN (Recurrent Neural Networks)<br/>
+        Basic of RNN (Elman Network)<br/>
+        Recap of Feed Forward Neural Networks FFNN
+               
 
  

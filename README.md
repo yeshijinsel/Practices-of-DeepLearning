@@ -85,5 +85,17 @@ Continue with the PyTorch Challenge lesson 4:<br />
         Basic of RNN (Elman Network)<br/>
         Recap of Feed Forward Neural Networks FFNN
                
+## Day 14: 2 March, 2019
+Continue with FFNN and Backpropagation Through Time(BPTT)<br/>
+Folded and Unfolded Model in RNN<br/>
+Intro Part of Long Short Term Memory(LSTM)<br/>
 
+## Day 15: 3 March, 2019
+Vanishing Gradient Problems and LSTM<br/>
+Different between RNN and LSTM<br/>
+ Andrej Karpathy CS231  RNN (https://www.youtube.com/watch?v=iX5V1WpxxkY&t=1066s)
+
+## Day 16: 4 March, 2019
+LSTM> DIfferent Gates ( Learn Gate, Forget Gate, Remember Gate, Use Gate)<br/>
+Basic Implementing of RNN
  
